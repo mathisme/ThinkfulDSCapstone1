@@ -6,9 +6,9 @@ Steps involved
 * Create a power point presentation
 
 ## Included in this repository
-* The research proposal, Thinkful Research Proposal.pdf
-* Jupyter notebook containing the results, Results.ipynb
-* PowerPoint presentation, ThinkfulDSCap1.pptx
+* The research proposal, https://github.com/mathisme/ThinkfulDSCapstone1/blob/main/Thinkful%20Research%20Proposal.pdf
+* Jupyter notebook containing the results, https://github.com/mathisme/ThinkfulDSCapstone1/blob/main/Results.ipynb
+* PowerPoint presentation, https://github.com/mathisme/ThinkfulDSCapstone1/blob/main/ThinkfulDSCap1.pptx
 
 ## Background
 As someone who uses apps and gets annoyed by all the advertisements popping up in free apps, I was curious to see if free ad-enabled apps get lower ratings on average than paid apps without ads.
