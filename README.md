@@ -12,7 +12,7 @@ Steps involved
 
 ## Background
 As someone who uses apps and gets annoyed by all the advertisements popping up in free apps, I was curious to see if free ad-enabled apps get lower ratings on average than paid apps without ads.
-To examine thiis, I chose the Google Play Store Apps dataset found on Kaggle.  The dataset can be found here: (https://www.kaggle.com/gauthamp10/google-playstore-apps)[https://www.kaggle.com/gauthamp10/google-playstore-apps]
+To examine thiis, I chose the Google Play Store Apps dataset found on Kaggle.  The dataset can be found here: https://www.kaggle.com/gauthamp10/google-playstore-apps
 Although this is not for any buisness purpose, developers can see from my research that having ads does not significantly effect user ratings.  
 
 ## Steps
