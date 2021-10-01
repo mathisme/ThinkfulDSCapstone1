@@ -5,7 +5,7 @@ Steps involved
 * Run a hypothesis test, analyze and write up results
 * Create a power point presentation
 
-## Included in this rpository
+## Included in this repository
 * (The research proposal, Thinkful Research Proposal.pdf)[Thinkful Research Proposal.pdf]
 * (Jupyter notebook containing the results, Results.ipynb)[Results.ipynb]
 * (PowerPoint presentation, ThinkfulDSCap1.pptx)[ThinkfulDSCap1.pptx]
