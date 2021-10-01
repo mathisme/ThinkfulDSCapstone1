@@ -17,7 +17,7 @@ Although this is not for any buisness purpose, developers can see from my resear
 
 ## Steps
 * An exploratory data analysis was performed on the data
-* As a t-test was intended the ratings column needed to be transformed to make it more normal
+* As a t-test was to be used, the ratings column needed to be transformed to make it more normal
 * A/A testing was used to test for bias
 * A one sided t-test was performed and results analyzed
 * To derive a confidence interval on the non-transformed 'ratings' column, bootstrapping was utilized
